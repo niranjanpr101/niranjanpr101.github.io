@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="first.css" rel="stylesheet" type="text/css">
+  <!-- https://www.w3schools.com/css/default.asp :- used as a css resorces -->
+  <title>My recipe</title>
+</head>
+<body>
+  <!-- Heading -->
+  <div>
+  <h1>Beshan ka Halwa recipe</h1>
+</div>
+<selector class="icon">
+  <div  class="quick">
+  <p><h2>Beshan ka halwa is a indian desert <span style="color:blue;">made </span>with gram flour, sugar, ghee, and nuts.
+    I like to eat <span style="color:green;">sweet </span>dish because it's very tasty.
+    It can be eaten as a after meal<span style="text-decoration:underline;"> dessert</span>.</h2>
+  </p>
+</div>
+</selector>
+  <p>
+  <img src="https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2016/09/besan-halwa-1a.jpg" alt="error" />
+  </p>
+    <!-- Unordered List -->
+  <strong><h1>Ingredients</strong></h1>
+  <ul class="heart">
+    <li>1 cup besan or gram flour</li>
+    <li>1/2 cup Ghee</li>
+    <li>1/2 to 3/4 cup sugar (use as needed, i used 3/4)</li>
+    <li>2 cup milk or water (or 1 cup milk 1 cup water)</li>
+    <li>1/3 tsp cardamom pouder or elachi pouder</li>
+    <li>2 tsp almonds or badam sliced</li>
+    <li>2 tsp pistachios sliced</li>
+  </ul>
+  <!-- Ordered List -->
+  <strong><h1>Preparation for besan ka halwa</strong></h1>
+  <ol class="special">
+    <li>Pour water, milk and sugar to a pot and disslove the sugar completly.
+      Bring it to a boil 🥛.</li>
+    <li>On another burner, heat ghee in a heavy  bottom pan 🍳.</li>
+    <li>Add besan and begain to roast on a medium flame stirring contionuously
+    untill aromatic and deep golden.</li>
+    <li>When the besan is about to be done, reduce the flame to low 🔥.</li>
+  </ol>
+  <strong><h1>Making besan ka halwa</strong></h1>
+  <ol class="special">
+    <li>Quickly and slowly pour the milk in small quantities to the
+      besan stirring continuously 👍.</li>
+    <li>Keep stirring continuously breaking the lumps and cooking.</li>
+    <li>When the moisture is absorded, add 1 tsp ghee and stir. Within few 
+      minutes the halwa will begain to leave the slide of the pen.</li>
+    <li>Cook for another 2 to 3 minutes untill the ghee begains to release.
+    Remove to serving bowls 🍽️.</li>
+    <li>Sprinkle sliced almonds & pistas. Serve besan ka halwa warm or hot 😋.</li>
+  </ol>
+  <ol>
+  <p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWzAvBJ3C9TOQapcv5F24D7T9keUZvikycOfLM4fAIDplwQdSy&usqp=CAU" alt="error" />
+  </p>
+  </ol>
+  <strong><h1>Other way to making Beshan ka Halwa</strong></h1>
+  <ul class="heart">
+    <li><a href="https://www.vegrecipesofindia.com/besan-halwa-recipe/#wprm-recipe-container-135289">Beshan ka Halwa recipe by Veg Recipes</a></li>
+    <li><a href="https://hebbarskitchen.com/besan-halwa-recipe-besan-ka-halwa/">Beshan ka Halwa recipe by Hebbar's Kitchen</a></li>
+    <li><a href="https://www.manjulaskitchen.com/besan-ka-halwa/">Beshan ka Halwa recipe by Manjula's Kitchen</a></li>
+    <li><a href="https://recipes.timesofindia.com/recipes/besan-halwa/rs59213858.cms">Beshan ka Halwa recipe by Times Food</a></li>
+    <li><a href="https://www.veganricha.com/besan-halwa/">Beshan ka Halwa recipe by Vegan Richa</a></li> 
+  </ul>
+  </body>
+</html>
